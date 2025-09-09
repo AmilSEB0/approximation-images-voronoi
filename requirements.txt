@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pillow
+pygame
+scipy
+shapely
+alphashape
+
